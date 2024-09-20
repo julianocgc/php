@@ -1,0 +1,1 @@
+{html_checkboxes values=$siglas output=$estados checked=$inicial separator="<br />"}

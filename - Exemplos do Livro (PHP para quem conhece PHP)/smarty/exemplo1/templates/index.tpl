@@ -1,0 +1,2 @@
+{$titulo} <br>
+{$titulo|capitalize}

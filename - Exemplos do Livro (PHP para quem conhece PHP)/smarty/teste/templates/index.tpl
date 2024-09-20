@@ -1,0 +1,5 @@
+{* Smarty *}
+
+Olá {$nome}!
+
+
