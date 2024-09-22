@@ -1,0 +1,14 @@
+Niederauer.com.br
+http://www.niederauer.com.br
+
+Contador de acessos simples baseado em um arquivo texto
+-------------------------------------------------------
+
+Observações:
+
+1) o arquivo "contador.txt" deve ter permissão de escrita (CHMOD 777).
+
+2) Para incrementar e exibir o valor do contador, inclua a seguinte chamada em sua página PHP:
+
+include "contador.php";
+
